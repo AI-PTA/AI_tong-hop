@@ -1,11 +1,2 @@
 streamlit 
 openai
-pandas 
-numpy 
-plotly 
-sqlalchemy 
-sqlite3
-PyMuPDF
-google-cloud-speech 
-google-cloud-texttospeech 
-pillow
