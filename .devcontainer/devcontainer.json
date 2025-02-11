@@ -31,7 +31,8 @@
     8501
   ]
 }
-
+{
+  "name": "Python 3",
 import streamlit as st
 import openai
 import pandas as pd
