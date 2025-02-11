@@ -1,12 +1,19 @@
-streamlit
+# Streamlit - Giao d?ch chính 
+streamlit 
+# OpenAI - G?i API GPT-4o-mini 
 openai
-pandas
-numpy
-plotly
-duckduckgo-search
-PyMuPDF
-sqlalchemy
+# Phân tích x? lý d? li?u (Excel, CSV, SQL) 
+pandas 
+numpy 
+plotly 
+sqlalchemy 
 sqlite3
-google-cloud-speech
-google-text-to-speech
+# Tìm ki?m van b?n pháp lu?t, m?u h?p d?ng 
+duckduckgo-search
+
+PyMuPDF
+# X? lý gi?ng nói (TTS & STT) 
+google-cloud-speech 
+google-cloud-texttospeech 
+# X? lý hình ?nh 
 pillow
