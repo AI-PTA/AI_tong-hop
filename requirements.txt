@@ -1,2 +1,12 @@
 streamlit
 openai
+pandas
+numpy
+plotly
+duckduckgo-search
+PyMuPDF
+sqlalchemy
+sqlite3
+google-cloud-speech
+google-text-to-speech
+pillow
